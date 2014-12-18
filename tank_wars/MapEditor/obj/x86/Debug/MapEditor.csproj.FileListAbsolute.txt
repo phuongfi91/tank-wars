@@ -1,0 +1,29 @@
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\bin\Debug\MapEditor.exe
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\bin\Debug\MapEditor.pdb
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\App.g.cs
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor_MarkupCompile.cache
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor.g.resources
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\abc\Documents\Visual Studio 2010\Projects\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor_MarkupCompile.lref
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\bin\Debug\MapEditor.exe
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\bin\Debug\MapEditor.pdb
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\MainWindow.g.cs
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\App.g.cs
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor_MarkupCompile.cache
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor_MarkupCompile.lref
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\MainWindow.baml
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor.g.resources
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor.exe
+D:\Dung Phuong\Programming_Project\Projects\Learning_XNA\Tank_Wars\Tank_Wars\MapEditor\obj\x86\Debug\MapEditor.pdb
