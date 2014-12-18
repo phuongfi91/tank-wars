@@ -1,7 +1,9 @@
 tank-wars
 =========
 
-A simple game done as a windows programming project. Special thanks to my friends Chau Nguyen and Phat Nguyen for their contributions to this project.
++ A simple game done as a windows programming project. Special thanks to my friends Chau Nguyen and Phat Bui for their contributions to this project.
++ The project is built by a team of inexperienced programmers, code structure wasn't the best of its kind, thus having plenty of limitations.
++ The project is a 2-month effort but ultimately discontinued due to technical limitation, over-complexity, time limit and Microsoft being a nasty evil force. However, the game itself is still a piece of something...
 
 #####Prerequisites:
 + Windows XP, Vista, 7, 8, 8.1
