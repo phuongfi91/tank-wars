@@ -17,5 +17,5 @@ tank-wars
 + Shoot: Right Click (Machine Gun), Left Click (Missile)
 + Power: 1,2,3,4,5 or Numpad 1,2,3,4,5
 
-####Gameplay:
+####Gameplay (Youtube):
 [![Tank-Wars](http://img.youtube.com/vi/-SPCqXPnXgc/0.jpg)](http://www.youtube.com/watch?v=-SPCqXPnXgc)
