@@ -2,6 +2,7 @@ tank-wars
 =========
 
 + A simple game done as a windows programming project. Special thanks to my friends Chau Nguyen and Phat Bui for their contributions to this project.
++ The game includes a map editor to allow customized experience
 + The project is built by a team of inexperienced programmers, code structure wasn't the best of its kind, thus having plenty of limitations.
 + The project is a 2-month effort but ultimately discontinued for further development due to technical limitation, over-complexity, time limit and the discontinuation of Microsoft XNA. However, the game itself is still a piece of something...
 
