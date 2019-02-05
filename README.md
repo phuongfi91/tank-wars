@@ -6,7 +6,7 @@ tank-wars
 + The project is built by a team of inexperienced programmers, code structure wasn't the best of its kind, thus having plenty of limitations.
 + The project is a 2-month effort but ultimately discontinued for further development due to technical limitation, over-complexity, time limit and the discontinuation of Microsoft XNA. However, the game itself is still a piece of something...
 
-##### Prerequisites:
+#### Prerequisites:
 + Windows XP, Vista, 7, 8, 8.1
 + .NET Framework 4.0 (http://www.microsoft.com/en-us/download/details.aspx?id=17718)
 + XNA Redistributable 4.0 (http://www.microsoft.com/en-us/download/details.aspx?id=27598)
